@@ -1,0 +1,24 @@
+{
+    "name": "flatphp/html",
+    "description": "html helper component",
+    "keywords": ["html"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fred Yang",
+            "email": "shuky2000@163.com"
+        }
+    ],
+    "require": {
+	"php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flatphp\\Html\\": ""
+        },
+	"files": [
+	    "helper.php"
+	]
+    },
+    "minimum-stability": "dev"
+}
