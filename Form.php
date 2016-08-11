@@ -1,4 +1,4 @@
-<?php namespace Flagphp\Html;
+<?php namespace Flatphp\Html;
 
 class Form
 {
